@@ -1,0 +1,6 @@
+*.pyc
+*.xml
+/db*.json
+/*.db
+.venv/
+webui/
